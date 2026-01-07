@@ -14,13 +14,6 @@
 
 ###
 
-<h3 align="left">Hobbies</h3>
-
-###
-
-<p align="left">Code.<br>Books.<br>Content Consumer!<br>Content Producer?!<br>Exercise freak!<br>Games.</p>
-
-###
 
 <h2 align="center">Primary Stack</h2>
 
@@ -47,6 +40,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
 </div>
+
+###
+
+<h3 align="left">Hobbies</h3>
+
+###
+
+<p align="left">Code.<br>Books.<br>Content Consumer!<br>Content Producer?!<br>Exercise freak!<br>Games.</p>
 
 ###
 
